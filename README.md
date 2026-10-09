@@ -100,18 +100,18 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@em0t](https://github.com/em0t) | 5 |
 | [@tmchow](https://github.com/tmchow) | 5 |
 | [@JBF1991](https://github.com/JBF1991) | 5 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 5 |
 | [@guillaumedeslandes](https://github.com/guillaumedeslandes) | 5 |
-| [@vincenthcui](https://github.com/vincenthcui) | 4 |
-| [@TropicalDog17](https://github.com/TropicalDog17) | 4 |
-| [@scottbrown](https://github.com/scottbrown) | 4 |
-| [@mhcoen](https://github.com/mhcoen) | 4 |
 | [@kherembourg](https://github.com/kherembourg) | 4 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 4 |
-| [@mvanhorn](https://github.com/mvanhorn) | 3 |
-| [@mgierok](https://github.com/mgierok) | 3 |
-| [@niklasmarderx](https://github.com/niklasmarderx) | 3 |
-| [@rtk-release-bot[bot]](https://github.com/apps/rtk-release-bot) | 3 |
+| [@mhcoen](https://github.com/mhcoen) | 4 |
+| [@scottbrown](https://github.com/scottbrown) | 4 |
+| [@TropicalDog17](https://github.com/TropicalDog17) | 4 |
+| [@vincenthcui](https://github.com/vincenthcui) | 4 |
 | [@swithek](https://github.com/swithek) | 3 |
+| [@rtk-release-bot[bot]](https://github.com/apps/rtk-release-bot) | 3 |
+| [@niklasmarderx](https://github.com/niklasmarderx) | 3 |
+| [@mgierok](https://github.com/mgierok) | 3 |
+| [@mvanhorn](https://github.com/mvanhorn) | 3 |
 | [@xdm67x](https://github.com/xdm67x) | 2 |
 | [@apowis](https://github.com/apowis) | 2 |
 <!-- AI:end:contributors -->
