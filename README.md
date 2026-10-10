@@ -92,6 +92,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@ousamabenyounes](https://github.com/ousamabenyounes) | 21 |
 | [@vsumner](https://github.com/vsumner) | 8 |
 | [@claude](https://github.com/claude) | 6 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 6 |
 | [@hed0rah](https://github.com/hed0rah) | 6 |
 | [@polaminggkub-debug](https://github.com/polaminggkub-debug) | 6 |
 | [@heAdz0r](https://github.com/heAdz0r) | 6 |
@@ -100,7 +101,6 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@em0t](https://github.com/em0t) | 5 |
 | [@tmchow](https://github.com/tmchow) | 5 |
 | [@JBF1991](https://github.com/JBF1991) | 5 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 5 |
 | [@guillaumedeslandes](https://github.com/guillaumedeslandes) | 5 |
 | [@kherembourg](https://github.com/kherembourg) | 4 |
 | [@mhcoen](https://github.com/mhcoen) | 4 |
