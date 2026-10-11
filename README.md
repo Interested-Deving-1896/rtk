@@ -90,8 +90,8 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@github-actions[bot]](https://github.com/apps/github-actions) | 65 |
 | [@KuSh](https://github.com/KuSh) | 22 |
 | [@ousamabenyounes](https://github.com/ousamabenyounes) | 21 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 8 |
 | [@vsumner](https://github.com/vsumner) | 8 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 7 |
 | [@claude](https://github.com/claude) | 6 |
 | [@hed0rah](https://github.com/hed0rah) | 6 |
 | [@polaminggkub-debug](https://github.com/polaminggkub-debug) | 6 |
